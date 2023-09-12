@@ -1,4 +1,4 @@
 # Project-Create
-This is my first git repository 
+This is my first git repository. 
 <br>
-Author	 -Awadh Raj Patel
+Author	- Awadh Raj Patel
